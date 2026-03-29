@@ -2,6 +2,7 @@
 A guide to using DEM/Geo data to create contour lines in QGIS, and export those lines with elevation data into Rhino8. Using Grasshopper to convert those topo contour lines to mesh for external use.
 # This is a QGIS to RHINO8/Grasshopper Pipeline Guide
 Author: Andre Wonasue
+About: Personal Project
 ## Pipeline
     Data > QGIS > Rhino8 > Grasshopper
 ## Issue Being Solved
