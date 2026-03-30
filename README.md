@@ -6,9 +6,11 @@ Author: Andre Wonasue
 About: Personal Project
 ## Pipeline
     Data > QGIS > Rhino8 > Grasshopper
+        Unlisted video guide made by me
     Part 1: https://youtu.be/zE40CFWFmUk
     Part 2: https://youtu.be/SBxHoKcjwl8
     Part 3: https://youtu.be/usx3qvN0UBk
+
 ## Issue Being Solved
 - Some contour lines data in Rhino 8 do not include height elevation, and they stay on the same Z axis.
 - This Guide is to help convert GeoTIF/DEM from USGS TNM to contour lines WITH elevation data included.
